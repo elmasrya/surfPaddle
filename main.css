@@ -1,0 +1,42 @@
+
+img:nth-child(2) {
+    display:block;
+    margin-top:-517px;
+    margin-left:141px;
+}
+
+.surfLogo {
+  position:relative;
+  left:200px;
+  top:-85px;
+
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: -1px;
+  }
+
+.about {
+  position:relative;
+  left:800px;
+  top:-85px;
+}
+
+.search {
+  position:relative;
+  left:800px;
+  top:-85px;
+
+}
+
+.searchIcon {
+  position:relative;
+  left:800px;
+  top:-85px;
+}
+
+.mainTitle{
+  position:relative;
+  top: 150px;
+  right:50px;
+  font-size: 80px;
+  text-align: center;
+}
