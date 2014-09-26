@@ -82,17 +82,29 @@ left:500px;
 
 }
 
+.commentBars{
+
+}
+
 .commentImage {
   background-color:blue;
-  width: 20px;
-  height: 20px;
-  padding: 3px;
+  float:left;
+  padding:3px;
+
+
+
+}
+
+.readComments {
+background-color: gray;
+padding:3px;
+
 }
  .rightSide{
   float:right;
   background-color: red;
   width: 30%;
-   height:100px;
+
  }
 
  /*This is the end of the middle section*/
