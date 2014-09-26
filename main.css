@@ -1,42 +1,109 @@
-
-img:nth-child(2) {
-    display:block;
-    margin-top:-517px;
-    margin-left:141px;
+.whole {
+  margin:auto;
+  width:1300px;
+}
+.topSec {
+  position:relative;
+  background-image: url('https://raw.githubusercontent.com/tiy-atlanta-js/Assignments/master/Assignment%2003/assets/header.jpg');
+  width: 1300px;
+  height: 523px;
+  margin:auto;
 }
 
-.surfLogo {
-  position:relative;
-  left:200px;
-  top:-85px;
+.surfLogo{
+  margin-top: 11px;
+  margin-left: 141px;
+}
 
-  font-family: 'Oswald', sans-serif;
-  letter-spacing: -1px;
-  }
-
-.about {
+.surfTopText {
   position:relative;
-  left:800px;
-  top:-85px;
+  bottom: 15px;
+}
+
+.about{
+position: relative;
+bottom: 15px;
+left:500px;
+
 }
 
 .search {
-  position:relative;
-  left:800px;
-  top:-85px;
-
-}
-
+position: relative;
+bottom: 15px;
+left:500px;
+  }
 .searchIcon {
-  position:relative;
-  left:800px;
-  top:-85px;
+  position: relative;
+  bottom: 15px;
+  left:500px;
 }
 
-.mainTitle{
+  .mainTitle {
+    color:white;
+    font-size:100px;
+    position: relative;
+    top: 200px;
+    left:200px;
+    display:block;
+    }
+
+    .underTitle {
+      position: relative;
+      top: 200px;
+      left:600px;
+
+    }
+/*This is the end of the top section*/
+
+.middleSection{
+  margin:auto;
+  width: 1000px;
   position:relative;
-  top: 150px;
-  right:50px;
-  font-size: 80px;
-  text-align: center;
+}
+
+.leftSide{
+  height: 100px;
+  background-color: red;
+  width: 70%;
+  float: left;
+}
+
+.para1{
+
+}
+.para2{
+
+}
+
+.para3 {
+
+}
+.para4 {
+
+}
+
+.commentImage {
+  background-color:blue;
+  width: 20px;
+  height: 20px;
+  padding: 3px;
+}
+ .rightSide{
+  float:right;
+  background-color: red;
+  width: 30%;
+   height:100px;
+ }
+
+ /*This is the end of the middle section*/
+.footer{
+  clear:both;
+  background-color: red;
+  width: 100px;
+  height:100px;
+
+}
+
+{
+  border:solid;
 }
