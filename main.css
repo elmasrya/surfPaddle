@@ -125,11 +125,18 @@ padding:3px;
 /*This is the end of the middle section*/
 .footer{
  clear:both;
- background-color: red;
  width: 100%;
  height:100%;
 
  }
+
+.bottomFooter {
+background-color: rgb(8,52,82);
+color: rgb(166,182,194);
+}
+.footNav {
+  dispaly:inline;
+}
 
 {
   border:solid;
