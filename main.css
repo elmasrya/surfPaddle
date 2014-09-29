@@ -187,6 +187,10 @@
         line-height:25px;
         }
 
+        .aliqua {
+          color: rgb(94, 104, 111);
+
+        }
       .para4 {
 
         margin-left:2px;
@@ -217,20 +221,81 @@
       float:right;
       width:278px;
       margin-right:160px;
+      margin-top:84px;
+      }
+
+      .rightIcon{
+        margin-left:100px;
 
       }
 
-      .underIconText {
+      .anneMarie {
         display:block;
+        margin-top:6px;
+        margin-left:95px;
+        font-family: 'Open Sans', sans-serif;
+        font-size:16px;
+        font-weight:bold;
+        letter-spacing:-1px;
+        color:rgb(16, 109, 179);
         }
 
       .underIconNav {
-        display: inline;
+        color:rgb(180, 193, 203);
+        font-size:13px;
+        margin-left:43px;
+        margin-top:1px;
+        font-weight:100;
+        font-family: 'Open Sans', sans-serif;
+
         }
+        .twitter{
+
+        }
+        .facebook{
+          padding-left:10px;
+          padding-right:4px;
+          margin-left:11px;
+          border-left:solid;
+          border-right:solid;
+          border-width:1px;
+          border-color:rgb(250, 250, 250);
+          }
+
+        .instagram{
+            padding-left:6px;
+            margin-left:6px;
+
+          }
+
+
+      .surfWoman{
+        margin-top:52px;
+      }
 
       .womanSubtitle {
         display:block;
+        float:right;
+        color:rgb(186, 198, 207);
+        border-bottom:solid;
+        border-width:1px;
+        font-size:14px;
+        font-family: 'Open Sans', sans-serif;
         }
+
+      .sideHeading{
+        color:rgb(16, 109, 179);
+        font-family: 'Oswald', sans-serif;
+        font-size:18px;
+        margin-top:65px;
+        margin-left:1px;
+        letter-spacing:-.2px;
+        }
+
+      .sideParagraph {
+        
+      }
+
 /*This is the end of the middle section*/
 /*This is the beggining of the footer section*/
   .footer{
@@ -256,5 +321,5 @@
         dispaly:inline;
         }
 
-        /*
+
         {border:solid}

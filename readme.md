@@ -10,3 +10,5 @@ Moving steadily but I'm getting there!
 Font fixed in the header
 
 Formatting is 60% complete at this point
+
+Working on opacity!
