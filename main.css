@@ -50,57 +50,152 @@
 
 
     .mainTitle {
+
       clear:both;
       display:block;
-      margin-bottom:10px;
-      margin-top:223px;
-      text-align:center;
-
+      padding-top:135px;
+      margin-left:190px;
 
       color: white;
-      font-size:80px;
+      font-size:105px;
       font-family: 'Open Sans', sans-serif;
+      letter-spacing:-4px;
       }
 
     .underTitle {
-      display:block;
-      margin-bottom:100px;
-      text-align:center;
+      top:311px;
+      left:495px;
+      position:absolute;
+      font-size:15.5px;
+      color: rgb(8,52,81);
+      font-family: 'Open Sans', sans-serif;
+
+
       }
 
 /*This is the end of the top section*/
 /*This is the beggining of the middle section*/
 
-  .middleSection{
-    width: 940px;
-    }
+
 
     .leftSide{
       float:left;
-      width: 600px;
+      width:700px;
       margin-left:160px;
-      margin-top:70px;
-      margin-bottom:70px;
       }
 
       .heading {
-        font-size: 70px;
+        font-family: 'Oswald', sans-serif;
+        font-size: 65px;
+        color: rgb(8,52,82);
+        font-weight:lighter;
+        line-height:70px;
+        margin-top:63px;
+        letter-spacing:-1px;
+        }
+
+      .headingIcon{
+        height:23px;
+        width:23px;
+        float:left;
+        margin-top:-38px;
+        margin-left:5px;
+        }
+
+      .subHeading{
+        float:left;
+        margin-top:-33px;
+        margin-left:35px;
+        color:rgb(16,109,179);
+        font-size: 13px;
+        font-family: 'Open Sans', sans-serif;
+        }
+
+      .headlineLink {
+        float:right;
+        margin-top:-33px;
+        margin-right:415px;
+        font-size: 13px;
+        font-family: 'Open Sans', sans-serif;
+        color:rgb(163,179,191);
+        text-decoration: none;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        padding-bottom: -.1px;
+        }
+
+      .on{
+        float:right;
+        margin-top:-33px;
+        margin-right:565px;
+        font-size: 13px;
+        font-family: 'Open Sans', sans-serif;
+        color:rgb(163,179,191);
         }
 
       .para1{
+        clear:both;
+        margin-left:2px;
+        padding-top:21px;
+        width:620px;
+        height:95px;
+        font-size:15.4px;
         font-family: 'Open Sans', sans-serif;
+        color:rgb(94, 104, 111);
+        line-height:25px;
         }
+
+        .chicMixtape{
+          color:rgb(94, 104, 111);
+          }
+
 
       .para2{
+        clear:both;
+        margin-left:2px;
+        padding-top:21px;
+        width:620px;
+        height:95px;
+        font-size:15.4px;
         font-family: 'Open Sans', sans-serif;
+        color:rgb(94, 104, 111);
+        line-height:25px;
         }
 
+
+        .woah{
+          border-left:solid;
+          color:rgb(16, 109, 179);
+          font-size:27px;
+          font-family: 'Open Sans', sans-serif;
+          margin-left:-30px;
+          padding-left:18px;
+          margin-top:-2px;
+          border-color:rgb(211,211,211);
+          border-width:1.5px;
+          letter-spacing:-.20px;
+          height:50px;
+          }
+
       .para3 {
+        margin-left:4px;
+        padding-top:0px;
+        width:620px;
+        font-size:15.4px;
         font-family: 'Open Sans', sans-serif;
+        color:rgb(94, 104, 111);
+        line-height:25px;
         }
 
       .para4 {
+
+        margin-left:2px;
+        padding-top:21px;
+        width:620px;
+        font-size:15.4px;
         font-family: 'Open Sans', sans-serif;
+        color:rgb(94, 104, 111);
+        line-height:25px;
         }
 
       .commentBars{
@@ -120,9 +215,9 @@
 
     .rightSide{
       float:right;
-      width: 300px;
+      width:278px;
       margin-right:160px;
-      margin-top:70px;
+
       }
 
       .underIconText {
@@ -140,12 +235,16 @@
 /*This is the beggining of the footer section*/
   .footer{
     clear:both;
-    width: 100%;
+    width: 1300px;
     height:100%;
     }
 
     .topFooter{
 
+      }
+
+      .bottomPics {
+        float:left;
       }
 
     .bottomFooter {
@@ -156,6 +255,6 @@
       .footNav {
         dispaly:inline;
         }
-{
-  border:solid;
-}
+
+        /*
+        {border:solid}
