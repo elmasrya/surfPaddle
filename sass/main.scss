@@ -1,17 +1,7 @@
-
-  $ff1:'Open Sans', sans-serif;
-
-  $ff2: 'Oswald', sans-serif;
-
-  $blue1:rgb(5, 44, 68);
-  $gray1: hsla(205, 8%, 40%, 1);
-
-  $font1: 'Oswald', sans-serif;
+$font1: 'Oswald', sans-serif;
 $font2: 'Open Sans', sans-serif;
-$darkblue: HSLA(204, 82%, 17%, 1);
-$lightblue: HSLA(206, 84%, 38%, 1);
-$grey: HSLA(206, 18%, 69%, 1);
-$darkgrey: HSLA(205, 8%, 40%, 1);
+$blue1: rgb(8, 52, 82);
+
 
 .whole {
   margin:auto;
@@ -38,14 +28,14 @@ $darkgrey: HSLA(205, 8%, 40%, 1);
   margin-top:23px;
   margin-left:15px;
   font-size:16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: $font1;
   letter-spacing: -.25px;
-  //color: $blue1;
+  color: $blue1;
   }
 
 .about{
-  font-family: 'Oswald', sans-serif;
-  //color: $blue1;
+  font-family: $font1;
+  color: $blue1;
   float:right;
   margin-top:17px;
   margin-right:14px;
