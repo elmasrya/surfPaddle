@@ -1,16 +1,9 @@
 This is my Second project at the Iron yard
+It is called surfPaddle
 
-This is a test edit
+It is a mocklayout of a .png. This project was an assignment. The goal of this assignment was to match identically the layout shown in the .png file.
 
-My css style has changed from  precise positioning to more float oriented.
-It seems to working more smoothly than my last format.
+How to use it:
+Clone my repo
 
-Moving steadily but I'm getting there!
-
-Font fixed in the header
-
-Formatting is 60% complete at this point
-
-Working on opacity!
-
-I am finally finished
+Author: Andrew El-Masry
